@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="first_team_hint">First team name</string>
+    <string name="second_team_hint">Second team name</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team A</string>
+    <string name="passing">Passing</string>
+    <string name="point">Point</string>
+    <string name="rushing">Rushing</string>
+    <string name="reset">Reset</string>
+</resources>
